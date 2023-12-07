@@ -1,0 +1,2 @@
+psycopg==3.1.14
+typing_extensions==4.8.0
